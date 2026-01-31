@@ -1,17 +1,61 @@
-# Welcome to my github
+# 👋 Hi, I’m Jose Hinojo — Software Engineer
 
-I am Jose Hinojo, a Software Engineer who likes to learn and build.
+I build **mobile and web apps that are live and available** for people to use today.  
+Below are some of my recently launched products:
 
-I currently focus more on Web Development, but dive into Android Development and Cloud Development/Migration. I will also soon be diving into Nuerotech and more iOS in my free time.
+---
 
-Here are some of my stats:
+## 🚀 Live Projects & Apps
 
-![](https://raw.githubusercontent.com/tovouk/tovouk/master/profile-summary-card-output/github/0-profile-details.svg)
-![](https://raw.githubusercontent.com/tovouk/tovouk/master/profile-summary-card-output/github/1-repos-per-language.svg)![](https://raw.githubusercontent.com/tovouk/tovouk/master/profile-summary-card-output/github/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/tovouk/tovouk/master/profile-summary-card-output/github/3-stats.svg)![](https://raw.githubusercontent.com/tovouk/tovouk/master/profile-summary-card-output/github/4-productive-time.svg)
+### 🪙 **Pocket Miner**  
+A fun mining adventure game where players dig, collect resources, and enjoy engaging progression mechanics.  
+🔗 https://pocketminer.app/  
+*(A playable game designed with resource systems and intuitive gameplay.)*
 
+---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josehinojo)
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/jose-hinojo/)
+### 🙏 **GetFaith**  
+A faith-centered app for daily reflection and spiritual engagement designed to help users stay grounded and encouraged.  
+🔗 https://getfaith.app/
 
-Note: Will have to login to Udemy to see my profile
+---
+
+### 📄 **Cuddle (Resume Builder)**  
+A simple, intuitive web tool that helps users **build professional resumes in minutes** using a dynamic editor and instant PDF export.  
+🔗 https://usecuddle.com/  
+*(Cuddle’s editor lets users preview changes live, switch themes, and generate polished PDFs.)*:contentReference[oaicite:1]{index=1}
+
+---
+
+## 🔧 About Me
+
+I’m a software engineer with experience building **production-ready mobile and web applications**. I enjoy creating products — games, utility apps, and tools — that people can install, use, and enjoy.
+
+**Professional experience includes:**  
+- Enterprise Java applications  
+- Backend & Microservices (Node.js, Python)  
+- Containerization & Orchestration (Docker, Kubernetes, Helm)  
+- CI/CD and automated deployments
+
+I also build side projects in my spare time — products that solve real user needs.
+
+---
+
+## 🛠 Tech Stack
+
+- **Mobile:** Android (Kotlin/Java), cross-platform frameworks  
+- **Web:** Modern JavaScript stacks  
+- **Backend & APIs:** RESTful services, cloud platforms  
+- **Infrastructure:** Docker, Kubernetes, Helm, CI/CD
+
+---
+
+## 📫 Where to Connect
+
+- 🌐 Portfolio: https://josehinojo.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/josehinojo/  
+- 📬 Email: burningremedy@gmail.com
+
+---
+
+Thanks for visiting 👋!
