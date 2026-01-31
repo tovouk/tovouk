@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jose Hinojo — Software Engineer
+# Jose Hinojo — Software Engineer
 
 I build **mobile and web apps that are live and available** for people to use today.  
 Below are some of my recently launched products:
@@ -56,4 +56,8 @@ I also build side projects in my spare time — products that solve real user ne
 
 ---
 
-Thanks for visiting 👋!
+## Github Stats
+
+![](https://raw.githubusercontent.com/tovouk/tovouk/master/profile-summary-card-output/github/0-profile-details.svg)
+![](https://raw.githubusercontent.com/tovouk/tovouk/master/profile-summary-card-output/github/1-repos-per-language.svg)![](https://raw.githubusercontent.com/tovouk/tovouk/master/profile-summary-card-output/github/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/tovouk/tovouk/master/profile-summary-card-output/github/3-stats.svg)![](https://raw.githubusercontent.com/tovouk/tovouk/master/profile-summary-card-output/github/4-productive-time.svg)
