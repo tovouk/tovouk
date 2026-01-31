@@ -5,27 +5,27 @@ Below are some of my recently launched products:
 
 ---
 
-## 🚀 Live Projects & Apps
+## Live Projects & Apps
 
-### 🪙 **Pocket Miner**  
+### **Pocket Miner**  
 A fun mining adventure game where players dig, collect resources, and enjoy engaging progression mechanics.  
 🔗 https://pocketminer.app/  
 
 ---
 
-### 🙏 **GetFaith**  
+### **GetFaith**  
 A faith-centered app for daily reflection and spiritual engagement designed to help users stay grounded and encouraged.  
 🔗 https://getfaith.app/
 
 ---
 
-### 📄 **Cuddle (Resume Builder)**  
+### **Cuddle (Resume Builder)**  
 A simple, intuitive web tool that helps users **build professional resumes in minutes** using a dynamic editor and instant PDF export.  
 🔗 https://usecuddle.com/  
 
 ---
 
-## 🔧 About Me
+## About Me
 
 I’m a software engineer with experience building **production-ready mobile and web applications**. I enjoy creating products — games, utility apps, and tools — that people can install, use, and enjoy.
 
@@ -39,7 +39,7 @@ I also build side projects in my spare time — products that solve real user ne
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Mobile:** Android (Kotlin/Java), cross-platform frameworks  
 - **Web:** Modern JavaScript stacks  
@@ -48,7 +48,7 @@ I also build side projects in my spare time — products that solve real user ne
 
 ---
 
-## 📫 Where to Connect
+## Where to Connect
 
 - 🌐 Portfolio: https://josehinojo.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/josehinojo/  
