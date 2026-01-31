@@ -10,7 +10,6 @@ Below are some of my recently launched products:
 ### 🪙 **Pocket Miner**  
 A fun mining adventure game where players dig, collect resources, and enjoy engaging progression mechanics.  
 🔗 https://pocketminer.app/  
-*(A playable game designed with resource systems and intuitive gameplay.)*
 
 ---
 
@@ -23,7 +22,6 @@ A faith-centered app for daily reflection and spiritual engagement designed to h
 ### 📄 **Cuddle (Resume Builder)**  
 A simple, intuitive web tool that helps users **build professional resumes in minutes** using a dynamic editor and instant PDF export.  
 🔗 https://usecuddle.com/  
-*(Cuddle’s editor lets users preview changes live, switch themes, and generate polished PDFs.)*:contentReference[oaicite:1]{index=1}
 
 ---
 
